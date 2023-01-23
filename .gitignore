@@ -10,3 +10,4 @@ dist
 debug.*
 deploy.sh
 secrets
+build
